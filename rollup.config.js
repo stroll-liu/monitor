@@ -18,7 +18,7 @@ export default [
     input: 'index.ts',
     // external: [],
     output: {
-      name: 'HowLongTime',
+      name: 'SJC',
       file: 'dist/index.min.js',
       format: 'umd',
       //   indent: false,
